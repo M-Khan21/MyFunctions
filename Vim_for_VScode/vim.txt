@@ -1,0 +1,23 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    vim.txt                                            :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: makhan <makhan@student.42.fr>              +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2023/06/02 07:19:14 by makhan            #+#    #+#              #
+#    Updated: 2023/06/02 07:31:01 by makhan           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+This is me trying out vim for vs code extension
+source: youtube video from the channel fireship.io link: https://www.youtube.com/watch?v=-txKSRn0qeA&t=211s
+
+
+
+
+Vim commands:
+hjkl - navigation
+iIaA - editing in line
+xr - for making changes while in command mode
